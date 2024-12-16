@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @ShredInProgress
-- 🌱 I’m currently learning : Html / Css / JS
-- 📫 How to reach me : on this account
+# Hi, I'm Evan!
 
+👋 Currently working in the POS industry for the horeca sector, providing **support, training**, and **installation** services. 
 
-<!---
-ShredInProgress/ShredInProgress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Learning HTML, CSS, and JavaScript** through self-study, with a focus on building practical web projects.
+
+## Skills:
+- POS systems support & installations
+- Self-taught in **HTML**, **CSS**, **JavaScript**
+- Passion for **web development**
+
+## Feel free to check out my repositories and stay tuned as I grow as a developer!
