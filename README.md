@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShredInProgress
-- 🌱 I’m currently learning Html / Css / JS
-- 📫 How to reach me on this account
+- 🌱 I’m currently learning : Html / Css / JS
+- 📫 How to reach me : on this account
 
 
 <!---
